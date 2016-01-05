@@ -4,7 +4,3 @@ function buttonClick() {
 	
 	text.innerHTML = "Clicked";
 }
-
-function changeFont() {
-	
-}
