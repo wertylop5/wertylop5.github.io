@@ -8,3 +8,8 @@ function buttonClick() {
 function changeFont() {
 	
 }
+
+function changeElement() {
+	var element = document.getElementById("tdOne");
+	
+}
