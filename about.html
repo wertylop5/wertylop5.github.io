@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+
+<html>
+	<head>
+		<title>About Me</title>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+		<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
+	</head>
+	
+	<body>
+		<div id="navbarLoc"></div>
+		
+		<div class="container">
+			<p>
+				Hi! I’m Stanley and I’m currently a freshman studying computer science at Cornell University’s College of Engineering. I am a software developer, but I’ve been branching out to other areas such as computer vision as well.
+			</p>
+			<p>
+				I’ve worked on a variety of projects, from a ray tracing engine written from scratch to a chatbot that recommends movies! Feel free to visit my Github to see the code for some of my projects.
+			</p>
+			<p>
+				I was also the lead programmer and captain of my high school’s Zero Robotics team, StuyNaught. Currently, I'm a member of Cornell Cup Robotics, and am currently working on a project involving facial recognition.
+			</p>
+			<p>
+				When I’m not at my computer, I enjoy skiing, swimming, and teaching myself the drums. I also know how to play the diabolo (feel free to ask me what it is)!
+			</p>
+			<p>
+				Feel free to contact me with any questions that you may have!
+			</p>
+		</div>
+
+		<script src="https://code.jquery.com/jquery-3.3.1.min.js" crossorigin="anonymous"></script>
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
+		<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
+		
+		<script>
+			$("#navbarLoc").load("navbarTemplate.html", () => {
+				$("#aboutMe").addClass("active");
+			});
+		</script>
+	</body>
+</html>
