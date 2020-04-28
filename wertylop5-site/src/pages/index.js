@@ -1,11 +1,23 @@
 import React from "react"
 import Layout from "../components/layout"
+import { graphql } from "gatsby"
 
-export default () => {
+export default ({ data }) => {
+	console.log(data)
+	//const edges = data.allMarkdownRemark.edges
+	//console.log(edges.map(({ node }) => node.html))
 	return (
 		<Layout>
-			<h1>This is a header</h1>
-			<p>This is a p</p>
+			<div dangerouslySetInnerHTML={{
+				__html: data.markdownRemark.html}}>
+			</div>
 		</Layout>
 	)
 }
+export const query = graphql`
+query MyQuery {
+  markdownRemark {
+    html
+  }
+}
+`

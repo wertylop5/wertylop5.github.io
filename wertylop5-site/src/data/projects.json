@@ -1,0 +1,30 @@
+[
+	{
+		"name": "Graphics Engine",
+		"desc": "A simple graphics engine created from scratch in C. Supports several 3D shapes as well as lighting using ray tracing.",
+		"img": {
+			"path": "res/img/skyworld.png",
+			"alt": "skyworld"
+		},
+		"links": [
+			{
+				"url": "https://github.com/wertylop5/graphics_final",
+				"text": "Link to Github"
+			}
+		]
+	},
+	{
+		"name": "Fit Conduit",
+		"desc": "An android app that finds the number of cables that can fit into a conduit.",
+		"img": {
+			"path": "res/img/fitConduit.png",
+			"alt": "fit conduit"
+		},
+		"links": [
+			{
+				"url": "https://github.com/wertylop5/FitConduit",
+				"text": "Link to Github"
+			}
+		]
+	}
+]

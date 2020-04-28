@@ -11,7 +11,8 @@ lincolnTheme.googleFonts.push({
 })
 
 const typography = new Typography(lincolnTheme)
+//export const typography = new Typography(lincolnTheme)
 
-export default typography
+//export default typography
 export const rhythm = typography.rhythm
 
