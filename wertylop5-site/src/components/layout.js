@@ -23,22 +23,22 @@ export default ({ children }) => {
 						
 						<NavDropdown title="Socials" className="d-md-none">
 							<NavDropdown.Item href="https://github.com/wertylop5">
-								<i class="fab fa-lg fa-github"></i>
+								<i className="fab fa-lg fa-github"></i>
 								Github
 							</NavDropdown.Item>
 							<NavDropdown.Item href="https://linkedin.com/in/slin55055">
-								<i class="fab fa-lg fa-linkedin"></i>
+								<i className="fab fa-lg fa-linkedin"></i>
 								LinkedIn
 							</NavDropdown.Item>
 						</NavDropdown>
 					</Nav>
 					<Nav className="d-md-flex d-none">
-						<Nav.Link class="nav-link" href="https://github.com/wertylop5">
-							<i class="fab fa-lg fa-github"></i>
+						<Nav.Link className="nav-link" href="https://github.com/wertylop5">
+							<i className="fab fa-lg fa-github"></i>
 						</Nav.Link>
 						
-						<Nav.Link class="nav-link" href="https://linkedin.com/in/slin55055">
-							<i class="fab fa-lg fa-linkedin"></i>
+						<Nav.Link className="nav-link" href="https://linkedin.com/in/slin55055">
+							<i className="fab fa-lg fa-linkedin"></i>
 						</Nav.Link>
 					</Nav>
 				</Navbar.Collapse>
