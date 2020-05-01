@@ -1,0 +1,107 @@
+[
+	{
+		"company": "Uber ATG",
+		"title": "Software Engineer Intern",
+		"duration": "May 2020-August 2020",
+		"img": {
+			"path": "/uber_atg.png",
+			"alt": "uber atg"
+		},
+		"desc": [
+			"I will be working in Uber's Advanced Technologies Group (ATG) and helping them develop an autonomous vehicle!"
+		],
+		"links": [
+			{
+				"url": "https://www.uber.com/us/en/atg/",
+				"text": "Website"
+			}
+		]
+	},
+	{
+		"company": "Cornell Cup Robotics",
+		"title": "CS Subteam Member",
+		"duration": "August 2018-present",
+		"img": {
+			"path": "/cornellcup.png",
+			"alt": "cornell cup"
+		},
+		"desc": [
+			"Cornell Cup Robotics is a project team that constructs varied and unique robots.",
+			"I frequently collaborated with other members of other subteams (ie: electrical, mechanical) to create a multipurpose robot called R2.",
+			"The project I'm working on aims to implement a facial recognition system that can perform attendance tracking and function as a target recognition system for a team working of adding Nerf Blaster functionality.",
+			"I researched various algorithms for use in a facial recognition project as well as designed the software stack to utilize a client-server model, sending camera images on the robot to an external computation server."
+		],
+		"links": [
+			{
+				"url": "http://cornellcuprobotics.com/",
+				"text": "Website"
+			}
+		]
+	},
+	{
+		"company": "Robotic Personal Assistants Lab",
+		"title": "Undergraduate Researcher",
+		"duration": "June 2019-August 2019",
+		"img": {
+			"path": "/rpal.svg",
+			"alt": "rpal lab logo"
+		},
+		"desc": [
+			"I worked as a part of a multidisciplinary team to command a robot to autonomously assemble furniture kits.",
+			"I combined the usage of different sensors and devices (including an Xbox Kinect!) to solve construction related problems, such as the classic peg-in-hole problem.",
+			"OpenCV was utilized to detect different objects to grasp, as well as areas to place those objects."
+		],
+		"links": [
+			{
+				"url": "https://rpal.cs.cornell.edu/",
+				"text": "Website"
+			}
+		]
+	},
+	{
+		"company": "And Chill",
+		"title": "Software Engineer Intern",
+		"duration": "June 2017-August 2017",
+		"img": {
+			"path": "/andchill.jpg",
+			"alt": "andchill logo"
+		},
+		"desc": [
+			"And Chill is a chatbot (a program that automatically responds to user messages) that provides movie recommendations to users. This bot aims to have a more \"human\" approach to creating recommendations in a way that doesn't seem like a black box.",
+			"I rewrote many parts of the codebase to follow standard programming patterns so that it would be easily maintainable. This includes overhauling the database system to use MongoDB, which dramatically increased the system's capacity.",
+			"I also designed and implemented a broadcasting system that reached over 3000 users, boosting user retention by 50%."
+		],
+		"links": [
+			{
+				"url": "http://www.andchill.io/",
+				"text": "Website"
+			}
+		]
+	},
+	{
+		"company": "Zero Robotics - StuyNaught",
+		"title": "President and Lead Programmer",
+		"duration": "September 2015-January 2018",
+		"img": {
+			"path": "/stuynaught.png",
+			"alt": "stuynaught logo"
+		},
+		"desc": [
+			"I was part of my high school's Zero Robotics team, StuyNaught.",
+			"This competition involves programming robots in a language similar to C to maneuver in zero-gravity conditions to accomplish various tasks. These programs are eventually deployed on SPHERE robots aboard the International Space Station.",
+			"Our team has reached the international finals very year of the team's existence (except for one) and placed 1st in the 2017-2018 season.",
+			"In my senior year, I led a team of 20 students and collaborated with another international team of 10 students."
+		],
+		"links": [
+			{
+				"url": "http://zerorobotics.mit.edu/",
+				"text": "Competition Website"
+			},
+			{
+				"url": "http://stuynaught.github.io/",
+				"text": "Team Website"
+			}
+		]
+	}
+]
+

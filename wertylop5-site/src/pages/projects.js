@@ -13,8 +13,8 @@ export default ({ data }) => {
 	return (
 		<Layout>
 			<Container>
-			{projectData.map(({ node }) => (
 				<Row>
+				{projectData.map(({ node }) => (
 					<Col xs="12" lg="4">
 						<Card>
 							<Card.Img variant="top" src={node.img.path} alt={node.img.alt} />
@@ -29,8 +29,8 @@ export default ({ data }) => {
 							</Card.Body>
 						</Card>
 					</Col>
+				))}
 				</Row>
-			))}
 			</Container>
 		</Layout>
 	)

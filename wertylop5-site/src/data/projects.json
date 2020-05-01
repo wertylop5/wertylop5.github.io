@@ -3,7 +3,7 @@
 		"name": "Graphics Engine",
 		"desc": "A simple graphics engine created from scratch in C. Supports several 3D shapes as well as lighting using ray tracing.",
 		"img": {
-			"path": "static/skyworld.png",
+			"path": "/skyworld.png",
 			"alt": "skyworld"
 		},
 		"links": [
@@ -17,7 +17,7 @@
 		"name": "Fit Conduit",
 		"desc": "An android app that finds the number of cables that can fit into a conduit.",
 		"img": {
-			"path": "static/fitConduit.png",
+			"path": "/fitConduit.png",
 			"alt": "fit conduit"
 		},
 		"links": [
