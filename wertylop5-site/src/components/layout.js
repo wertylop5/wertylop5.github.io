@@ -8,6 +8,8 @@ import Button from "react-bootstrap/Button"
 import { Navbar, Nav, NavDropdown } from "react-bootstrap"
 import Container from "react-bootstrap/Container"
 
+import { FaGithub, FaLinkedinIn } from "react-icons/fa"
+
 export default ({ children }) => {
 	return (
 		<div>
@@ -23,22 +25,22 @@ export default ({ children }) => {
 						
 						<NavDropdown title="Socials" className="d-md-none">
 							<NavDropdown.Item href="https://github.com/wertylop5">
-								<i className="fab fa-lg fa-github"></i>
+								<FaGithub />
 								Github
 							</NavDropdown.Item>
 							<NavDropdown.Item href="https://linkedin.com/in/slin55055">
-								<i className="fab fa-lg fa-linkedin"></i>
+								<FaLinkedinIn />
 								LinkedIn
 							</NavDropdown.Item>
 						</NavDropdown>
 					</Nav>
 					<Nav className="d-md-flex d-none">
 						<Nav.Link className="nav-link" href="https://github.com/wertylop5">
-							<i className="fab fa-lg fa-github"></i>
+							<FaGithub />
 						</Nav.Link>
 						
 						<Nav.Link className="nav-link" href="https://linkedin.com/in/slin55055">
-							<i className="fab fa-lg fa-linkedin"></i>
+							<FaLinkedinIn />
 						</Nav.Link>
 					</Nav>
 				</Navbar.Collapse>

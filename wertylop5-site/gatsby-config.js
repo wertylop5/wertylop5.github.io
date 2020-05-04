@@ -50,6 +50,7 @@ module.exports = {
 				]
 			}
 		},
-		`gatsby-transformer-json`
+		`gatsby-transformer-json`,
+		`gatsby-transformer-sharp`
 	]
 }

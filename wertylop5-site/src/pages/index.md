@@ -1,4 +1,4 @@
-![](../../static/main_pic.jpg?raw=true)
+![](../../static/main_pic_fixed.jpg)
 
 ## Hey!
 

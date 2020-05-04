@@ -27,16 +27,16 @@ export default ({ data }) => {
 									<h2>{node.company}</h2>
 									<h3>{node.title}</h3>
 									<h5>{node.duration}</h5>
-									{node.desc.map( line => (
-										<p className="text-justify">
-											{line}
-										</p>
-									))}
-									{node.links.map( link => (
-										<Button variant="primary" href={link.url}>
-											{link.text}
-										</Button>
-									))}
+								{node.desc.map( line => (
+									<p className="text-justify">
+										{line}
+									</p>
+								))}
+								{node.links.map( link => (
+									<Button variant="primary" href={link.url}>
+										{link.text}
+									</Button>
+								))}
 								</Col>
 							</Row>
 						</ListGroup.Item>
