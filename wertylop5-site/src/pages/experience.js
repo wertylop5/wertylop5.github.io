@@ -33,7 +33,8 @@ export default ({ data }) => {
 									</p>
 								))}
 								{node.links.map( link => (
-									<Button variant="primary" href={link.url}>
+									<Button variant="primary" href={link.url}
+										target="_blank" rel="noopener noreferrer">
 										{link.text}
 									</Button>
 								))}

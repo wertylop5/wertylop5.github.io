@@ -22,7 +22,8 @@ export default ({ data }) => {
 								<Card.Title>{node.name}</Card.Title>
 								<Card.Text>{node.desc}</Card.Text>
 								{node.links.map((link) => (
-									<Button variant="primary" href={link.url}>
+									<Button variant="primary" href={link.url}
+										target="_blank" rel="noopener noreferrer">
 										{link.text}
 									</Button>
 								))}
