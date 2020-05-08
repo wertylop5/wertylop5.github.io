@@ -8,7 +8,6 @@ import { Container, Row, Col } from "react-bootstrap"
 import Card from "react-bootstrap/Card"
 
 export default ({ data }) => {
-	console.log(data)
 	let projectData = data.allProjectsJson.edges
 	return (
 		<Layout>
