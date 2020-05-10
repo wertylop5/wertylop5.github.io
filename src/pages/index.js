@@ -7,6 +7,7 @@ export default ({ data }) => {
 	//console.log(edges.map(({ node }) => node.html))
 	return (
 		<Layout>
+			<title>{data.site.siteMetadata.title}</title>
 			<div dangerouslySetInnerHTML={{
 				__html: data.markdownRemark.html}}>
 			</div>
@@ -17,6 +18,11 @@ export const query = graphql`
 query MyQuery {
   markdownRemark {
     html
+  }
+  site {
+	siteMetadata {
+	  title
+	}
   }
 }
 `

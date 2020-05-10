@@ -1,5 +1,19 @@
 [
 	{
+		"name": "Personal Website",
+		"desc": "This website was built using Gatsby.js (which uses React.js and GraphQL) and Bootstrap",
+		"img": {
+			"path": "/website_code.png",
+			"alt": "website code"
+		},
+		"links": [
+			{
+				"url": "https://github.com/wertylop5/wertylop5.github.io",
+				"text": "Link to Github"
+			}
+		]
+	},
+	{
 		"name": "Graphics Engine",
 		"desc": "A simple graphics engine created from scratch in C. Supports several 3D shapes as well as lighting using ray tracing.",
 		"img": {
@@ -9,6 +23,20 @@
 		"links": [
 			{
 				"url": "https://github.com/wertylop5/graphics_final",
+				"text": "Link to Github"
+			}
+		]
+	},
+	{
+		"name": "Project Angstrom",
+		"desc": "A Flask web app that facilitates the process of scouting teams in the FIRST Tech Challenge competition",
+		"img": {
+			"path": "/angstrom.png",
+			"alt": "angstrom"
+		},
+		"links": [
+			{
+				"url": "https://github.com/wertylop5/Atomic_Theory-Project_Angstrom",
 				"text": "Link to Github"
 			}
 		]

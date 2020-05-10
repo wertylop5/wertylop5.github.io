@@ -1,5 +1,5 @@
 import React from "react"
-import { Link } from "gatsby"
+import { Link, graphql, useStaticQuery } from "gatsby"
 import { typography, rhythm } from "../utils/typography"
 import layoutStyles from "../styles/layout.module.css"
 import { TypographyStyle } from "react-typography"
@@ -17,10 +17,19 @@ import { FaGithub, FaLinkedinIn } from "react-icons/fa"
  * to highlight a link
  */
 export default ({ children }) => {
+	const data = useStaticQuery(graphql`
+	query layoutQuery {
+	  site {
+		siteMetadata {
+		  title
+		}
+	  }
+	}
+	`)
 	return (
 		<div>
 			<Navbar bg="dark" variant="dark" expand="md">
-				<Navbar.Brand as={Link} to="/">Stanley Lin</Navbar.Brand>
+				<Navbar.Brand as={Link} to="/">{data.site.siteMetadata.title}</Navbar.Brand>
 				<Navbar.Toggle aria-controls="mainNavbar" />
 				
 				<Navbar.Collapse className="justify-content-between" id="mainNavbar">

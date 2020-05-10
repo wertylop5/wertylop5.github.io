@@ -11,6 +11,7 @@ export default ({ data }) => {
 	let projectData = data.allProjectsJson.edges
 	return (
 		<Layout>
+			<title>Projects</title>
 			<Container>
 				<Row>
 				{projectData.map(({ node }) => (

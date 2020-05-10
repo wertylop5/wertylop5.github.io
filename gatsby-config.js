@@ -5,6 +5,11 @@
  */
 
 module.exports = {
+	siteMetadata: {
+		title: "Stanley Lin",
+		siteUrl: "https://wertylop5.github.io/",
+		description: "Personal website"
+	},
 	plugins: [
 		/*
 		{
@@ -34,6 +39,13 @@ module.exports = {
 			options: {
 				name: `images`,
 				path: `${__dirname}/static`
+			}
+		},
+		{
+			resolve: `gatsby-source-filesystem`,
+			options: {
+				name: `images`,
+				path: `${__dirname}/src/static`
 			}
 		},
 		`gatsby-plugin-sharp`,

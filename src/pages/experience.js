@@ -1,3 +1,7 @@
+//TODO make a request for all images in the expriences directory, match
+//the correct image to entry based on the received json data
+//TODO see the github issue in the bookmark
+//TODO idea: make a static query in the Image component to get the image (won't work, no args allowed)
 import React from "react"
 import Layout from "../components/layout"
 import { graphql } from "gatsby"
@@ -12,6 +16,7 @@ export default ({ data }) => {
 	let experienceData = data.allExperienceJson.edges
 	return (
 		<Layout>
+			<title>Experience</title>
 			<Container>
 			{experienceData.map(({ node }) => (
 				<Row>
@@ -66,6 +71,20 @@ query ExperienceQuery {
           text
           url
         }
+      }
+    }
+  }
+  allFile(filter: {relativeDirectory: {in: "experience"}}) {
+    edges {
+      node {
+        childImageSharp {
+          id
+		  fluid {
+		  	...GatsbyImageSharpFluid
+		  }
+        }
+        relativeDirectory
+        relativePath
       }
     }
   }
