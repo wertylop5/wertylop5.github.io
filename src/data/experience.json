@@ -2,13 +2,13 @@
 	{
 		"company": "Uber ATG",
 		"title": "Software Engineer Intern",
-		"duration": "May 2020-August 2020",
+		"duration": "June 2020-August 2020",
 		"img": {
 			"path": "/uber_atg.png",
 			"alt": "uber atg"
 		},
 		"desc": [
-			"I will be working in Uber's Advanced Technologies Group (ATG) and helping them develop an autonomous vehicle!"
+			"I will be working in Uber's Advanced Technologies Group (ATG) and helping them develop an autonomous vehicle! I will be working with the AVMaps Applications team."
 		],
 		"links": [
 			{

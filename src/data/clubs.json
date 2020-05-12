@@ -1,0 +1,38 @@
+[
+	{
+		"name": "Cornell Pro-Yos",
+		"img": {
+			"path": "/proyo.png",
+			"alt": "proyo logo"
+		},
+		"desc": [
+			"I’m a member of a Chinese Yoyo performance group known as the Pro-Yos! We perform at several events each semester, culminating in a big showcase performance at the end of the spring semester."
+		],
+		"links": [
+			{
+				"url": "https://www.facebook.com/CUProYos/",
+				"text": "Facebook Page"
+			},
+			{
+				"url": "https://www.instagram.com/CUProYos/",
+				"text": "Instagram Page"
+			}
+		]
+	},
+	{
+		"name": "Engineering Ambassadors",
+		"img": {
+			"path": "/eng_ambassador.jpg",
+			"alt": "engineering ambassadors"
+		},
+		"desc": [
+			"I am part of Cornell’s Engineering Ambassadors, where I am responsible for giving tours for prospective and newly admitted students to the college of engineering as well as hosting Q&A sessions."
+		],
+		"links": [
+			{
+				"url": "https://www.engineering.cornell.edu/",
+				"text": "Cornell Engineering"
+			}
+		]
+	}
+]

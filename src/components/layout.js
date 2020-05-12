@@ -40,6 +40,9 @@ export default ({ children }) => {
 						<Nav.Link as={Link} to="/experience/"
 							activeClassName="active">Experience</Nav.Link>
 						
+						<Nav.Link as={Link} to="/clubs/"
+							activeClassName="active">Clubs</Nav.Link>
+						
 						<NavDropdown title="Socials" className="d-md-none">
 							<NavDropdown.Item href="https://github.com/wertylop5"
 								target="_blank" rel="noopener noreferrer">
