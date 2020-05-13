@@ -19,7 +19,7 @@
 	},
 	{
 		"company": "Cornell Cup Robotics",
-		"title": "CS Subteam Member",
+		"title": "Project Lead",
 		"duration": "August 2018-present",
 		"img": {
 			"path": "/cornellcup.png",
@@ -27,9 +27,7 @@
 		},
 		"desc": [
 			"Cornell Cup Robotics is a project team that constructs varied and unique robots. I frequently collaborated with other subteams from electrical and mechanical engineering to create a multipurpose robot called C1C0.",
-
 			"I currently lead a group of undergraduates to build a chatbot feature for our robot that can answer queries like “what is the weather” using NLTK and various related APIs. Additionally, the robot can take vocal commands to move different parts of the robot, such as moving around or recognizing a person or object.",
-
 			"A past feature I worked on also includes a facial recognition system that can perform attendance tracking. I designed the software stack to utilize a client-server model, which had a camera on the robot send pictures to an external computation server to process."
 		],
 		"links": [
@@ -49,7 +47,6 @@
 		},
 		"desc": [
 			"Juni Learning is an online platform to tutor students in computer science and math. I’m currently an instructor teaching students ranging from ages 8-13 various topics in computer computer science. These include the basics of Python, data structures and algorithms, and basic data analysis.",
-
 			"I, along with over 400 other instructors, help to continuously iterate and develop the curriculum for the thousands of students served on the platform."
 		],
 		"links": [
