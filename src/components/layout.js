@@ -59,12 +59,12 @@ export default ({ children }) => {
 					<Nav className="d-md-flex d-none">
 						<Nav.Link href="https://github.com/wertylop5"
 							target="_blank" rel="noopener noreferrer">
-							<FaGithub />
+							<FaGithub size="1.5em" />
 						</Nav.Link>
 						
 						<Nav.Link href="https://linkedin.com/in/slin55055"
 							target="_blank" rel="noopener noreferrer">
-							<FaLinkedinIn />
+							<FaLinkedinIn size="1.5em" />
 						</Nav.Link>
 					</Nav>
 				</Navbar.Collapse>
