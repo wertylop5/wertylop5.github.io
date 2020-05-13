@@ -12,7 +12,7 @@ export default ({ data }) => {
 	let clubData = data.allClubsJson.edges
 	return (
 		<Layout>
-			<title>Experience</title>
+			<title>Clubs</title>
 			<Container>
 			{clubData.map(({ node }) => (
 				<Row>
