@@ -1,6 +1,6 @@
 # Personal Website
 
-Source code for my personal [website](wertylop5.github.io).
+Source code for my personal [website](https://wertylop5.github.io).
 
 The website was made mainly with:
 * [Gatsby.js](https://www.gatsbyjs.org/)
