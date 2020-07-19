@@ -8,7 +8,8 @@
 			"alt": "uber atg"
 		},
 		"desc": [
-			"I will be working in Uber's Advanced Technologies Group (ATG) and helping them develop an autonomous vehicle! I will be working with the AVMaps Applications team."
+			"I worked at Uber's Advanced Technologies Group (ATG) and helped them develop an autonomous vehicle! I was part of the AVMaps Applications team where I developed a geospatial web application to aid navigation for the car.",
+			"I utilized React.js, Redux, and Node.js to make various improvements to the bug reporting system for the application. Additionally, I utilized Deck.gl, an open source WebGL powered library, to add additional features to the application."
 		],
 		"links": [
 			{
@@ -20,14 +21,14 @@
 	{
 		"company": "Cornell Cup Robotics",
 		"title": "Project Lead",
-		"duration": "August 2018-present",
+		"duration": "August 2018-May 2020",
 		"img": {
 			"path": "/cornellcup.png",
 			"alt": "cornell cup"
 		},
 		"desc": [
 			"Cornell Cup Robotics is a project team that constructs varied and unique robots. I frequently collaborated with other subteams from electrical and mechanical engineering to create a multipurpose robot called C1C0.",
-			"I currently lead a group of undergraduates to build a chatbot feature for our robot that can answer queries like “what is the weather” using NLTK and various related APIs. Additionally, the robot can take vocal commands to move different parts of the robot, such as moving around or recognizing a person or object.",
+			"I led a group of undergraduates to build a chatbot feature for our robot that could answer queries like “what is the weather” using NLTK and various related APIs. Additionally, the robot could take vocal commands to move different parts of itself, such as moving around or recognizing a person or object. ",
 			"A past feature I worked on also includes a facial recognition system that can perform attendance tracking. I designed the software stack to utilize a client-server model, which had a camera on the robot send pictures to an external computation server to process."
 		],
 		"links": [
@@ -46,8 +47,8 @@
 			"alt": "juni logo"
 		},
 		"desc": [
-			"Juni Learning is an online platform to tutor students in computer science and math. I’m currently an instructor teaching students ranging from ages 8-13 various topics in computer computer science. These include the basics of Python, data structures and algorithms, and basic data analysis.",
-			"I, along with over 400 other instructors, help to continuously iterate and develop the curriculum for the thousands of students served on the platform."
+			"Juni Learning is an online platform to tutor students in computer science and math. I was an instructor teaching students ranging from ages 8-13 various topics in computer science. These include the basics of Python, data structures and algorithms, and basic data analysis.",
+			"I, along with over 400 other instructors, helped to continuously iterate and develop the curriculum for the thousands of students served on the platform."
 		],
 		"links": [
 			{
