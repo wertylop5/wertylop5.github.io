@@ -1,5 +1,23 @@
 [
 	{
+		"company": "Amazon",
+		"title": "Software Development Engineer Intern",
+		"duration": "January 2021-Present",
+		"img": {
+			"path": "/amazon_lab126.png",
+			"alt": "amazon lab126"
+		},
+		"desc": [
+			"I interned at Amazon's Lab126, where I helped work on enhancing developer tooling in the company's DevOps team."
+		],
+		"links": [
+			{
+				"url": "https://www.linkedin.com/company/lab126",
+				"text": "LinkedIn Page"
+			}
+		]
+	},
+	{
 		"company": "Uber ATG",
 		"title": "Software Engineer Intern",
 		"duration": "June 2020-August 2020",
@@ -8,12 +26,33 @@
 			"alt": "uber atg"
 		},
 		"desc": [
-			"I worked at Uber's Advanced Technologies Group (ATG) and helped them develop an autonomous vehicle! I was part of the AVMaps Applications team where I developed a geospatial web application to aid navigation for the car.",
-			"I utilized React.js, Redux, and Node.js to make various improvements to the bug reporting system for the application. Additionally, I utilized Deck.gl, an open source WebGL powered library, to add additional features to the application."
+			"I worked at Uber's former Advanced Technologies Group (ATG) and helped them develop an autonomous vehicle! I was part of the AVMaps Applications team where I developed a geospatial web application to aid navigation for the car.",
+			"I utilized React.js, Redux, and Node.js to make various improvements to the bug reporting system for the application. Additionally, I utilized Deck.gl, an open source WebGL powered library, to add additional features to the application.",
+			"I also worked on backend features, like an AWS service to get point cloud data and testing a map linting service using Go.",
+			"Uber ATG is now part of another self-driving company called Aurora."
 		],
 		"links": [
 			{
-				"url": "https://www.uber.com/us/en/atg/",
+				"url": "https://aurora.tech/",
+				"text": "Aurora's Website"
+			}
+		]
+	},
+	{
+		"company": "Juni Learning",
+		"title": "Computer Science Instructor",
+		"duration": "January 2020-December 2020",
+		"img": {
+			"path": "/juni_learning.png",
+			"alt": "juni logo"
+		},
+		"desc": [
+			"Juni Learning is an online platform to tutor students in computer science and math. I was an instructor teaching students ranging from ages 8-18 various topics in computer science. These include the basics of Python, data structures and algorithms, and basic data analysis.",
+			"I, along with nearly 1000 other instructors, helped to continuously iterate and develop the curriculum for the thousands of students served on the platform."
+		],
+		"links": [
+			{
+				"url": "https://junilearning.com/",
 				"text": "Website"
 			}
 		]
@@ -34,25 +73,6 @@
 		"links": [
 			{
 				"url": "http://cornellcuprobotics.com/",
-				"text": "Website"
-			}
-		]
-	},
-	{
-		"company": "Juni Learning",
-		"title": "Computer Science Instructor",
-		"duration": "January 2020-May 2020",
-		"img": {
-			"path": "/juni_learning.png",
-			"alt": "juni logo"
-		},
-		"desc": [
-			"Juni Learning is an online platform to tutor students in computer science and math. I was an instructor teaching students ranging from ages 8-13 various topics in computer science. These include the basics of Python, data structures and algorithms, and basic data analysis.",
-			"I, along with over 400 other instructors, helped to continuously iterate and develop the curriculum for the thousands of students served on the platform."
-		],
-		"links": [
-			{
-				"url": "https://junilearning.com/",
 				"text": "Website"
 			}
 		]

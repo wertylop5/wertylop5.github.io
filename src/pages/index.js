@@ -52,7 +52,7 @@ export default ({ data }) => {
 					<Col md={4} className="text-center">
 						<MdWork size="10em" />
 						<p>
-							I've worked on an autonomous vehicle at Uber, done research with robotics and computer vision, and built a semiautonomous lab robot
+							I've worked on DevOps at Amazon, worked on an autonomous vehicle at Uber, done research with robotics and computer vision, and built a semiautonomous lab robot
 						</p>
 					</Col>
 				</Row>
