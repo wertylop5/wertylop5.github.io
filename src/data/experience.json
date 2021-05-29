@@ -1,14 +1,34 @@
 [
 	{
+		"company": "Stripe",
+		"title": "Software Engineer Intern",
+		"duration": "May 2021-Present",
+		"img": {
+			"path": "/stripe.svg",
+			"alt": "stripe"
+		},
+		"desc": [
+			"I will be working in the Terminal org in Stripe to help add more features for their Android SDK for physical card readers."
+		],
+		"links": [
+			{
+				"url": "https://stripe.com/",
+				"text": "Website"
+			}
+		]
+	},
+	{
 		"company": "Amazon",
 		"title": "Software Development Engineer Intern",
-		"duration": "January 2021-Present",
+		"duration": "January 2021-April 2021",
 		"img": {
 			"path": "/amazon_lab126.png",
 			"alt": "amazon lab126"
 		},
 		"desc": [
-			"I interned at Amazon's Lab126, where I helped work on enhancing developer tooling in the company's DevOps team."
+			"I was part of Amazon’s Lab126, where I worked on a DevOps team that managed many of the services used at Lab126.",
+			"I built a cloud based information archival service for the group’s Jira instance on AWS utilizing Lambda, DynamoDB, SQS, Fargate, and SNS. I also worked on fullstack web features using Flask and HTML for an internal web-based tool to aid users in managing Jira projects.",
+			"My work was utilized by over 26,000 internal users and helped to manage over 6,000,000 Jira tickets."
 		],
 		"links": [
 			{

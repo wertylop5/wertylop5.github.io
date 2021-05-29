@@ -41,6 +41,7 @@ module.exports = {
 				path: `${__dirname}/static`
 			}
 		},
+		/*
 		{
 			resolve: `gatsby-source-filesystem`,
 			options: {
@@ -48,6 +49,7 @@ module.exports = {
 				path: `${__dirname}/src/static`
 			}
 		},
+		*/
 		`gatsby-plugin-sharp`,
 		{
 			resolve: `gatsby-transformer-remark`,
