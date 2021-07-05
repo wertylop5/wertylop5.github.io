@@ -6,7 +6,9 @@
 			"alt": "proyo logo"
 		},
 		"desc": [
-			"I’m a member of a Chinese Yoyo performance group known as the Pro-Yos! We perform at several events each semester, culminating in a big showcase performance at the end of the spring semester. I also served as the club’s secretary for one semester."
+			"I’m a member of a Chinese Yoyo performance group known as the Pro-Yos!",
+			"We perform at several events each semester, culminating in a big showcase performance at the end of the spring semester.",
+			"I also served as the club’s secretary for one semester."
 		],
 		"links": [
 			{
@@ -32,6 +34,23 @@
 			{
 				"url": "https://www.engineering.cornell.edu/",
 				"text": "Cornell Engineering"
+			}
+		]
+	},
+	{
+		"name": "ACSU",
+		"img": {
+			"path": "/acsu.png",
+			"alt": "acsu"
+		},
+		"desc": [
+			"I am a general member of the Association of Computer Science Undergraduates (ACSU).",
+			"I’m mostly involved with the group’s mentorship program, where I provided guidance to underclassmen in the CS major and offered advice to those considering a CS major."
+		],
+		"links": [
+			{
+				"url": "https://acsu.cornell.edu/what.html",
+				"text": "ACSU About Page"
 			}
 		]
 	}
