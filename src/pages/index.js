@@ -40,13 +40,13 @@ export default ({ data }) => {
 					<Col md={4} className="text-center">
 						<BsPersonFill size="10em" />
 						<p>
-							I’m Stanley and I'm currently a senior majoring in Computer Science and minoring in Electrical and Computer Engineering at Cornell University
+							I’m Stanley and I’m a software developer experienced with full stack web development and mobile development.
 						</p>
 					</Col>
 					<Col md={4} className="text-center">
 						<FaCode size="10em" />
 						<p>
-							Some languages and libraries I've used are: Javascript, Node.js, Python, AWS, Java, JQuery, Android, C, Flask, React.js, Redux, Bootstrap, Kotlin, Flutter, HTML, CSS, Go, C++, SQL, MongoDB, Mbed, Verilog
+							Some languages and libraries I've used are: Kotlin, Javascript, React.js, Python, Flask, AWS, Node.js, Java, JQuery, Android, C, Redux, Bootstrap, Flutter, HTML, CSS, Go, C++, SQL, MongoDB, Mbed, Verilog
 						</p>
 					</Col>
 					<Col md={4} className="text-center">
