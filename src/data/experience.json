@@ -2,13 +2,17 @@
 	{
 		"company": "Stripe",
 		"title": "Software Engineer Intern",
-		"duration": "May 2021-Present",
+		"duration": "May 2021-August 2021",
 		"img": {
 			"path": "/stripe.svg",
 			"alt": "stripe"
 		},
 		"desc": [
-			"I will be working in the Terminal org in Stripe to help add more features for their Android SDK for physical card readers."
+			"I was part of the Terminal org in Stripe, where I worked on their Android SDK to help bring more functionality to Stripe’s physical card readers.",
+
+			"I worked with many Android libraries, such as Jetpack Compose and Room, as well as other industry standard libraries like Dagger. I ensured that the code I added conformed to the existing style in the codebase, and made some improvements to tests and code efficiency.",
+
+			"The features I added were critical to the org’s global expansion strategy, and helped to bring the product to market in more than 2+ countries."
 		],
 		"links": [
 			{

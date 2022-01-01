@@ -6,8 +6,8 @@
 			"alt": "proyo logo"
 		},
 		"desc": [
-			"I’m a member of a Chinese Yoyo performance group known as the Pro-Yos!",
-			"We perform at several events each semester, culminating in a big showcase performance at the end of the spring semester.",
+			"I was a member of a Chinese Yoyo performance group known as the Pro-Yos!",
+			"We performed at several events each semester, culminating in a big showcase performance at the end of the spring semester.",
 			"I also served as the club’s secretary for one semester."
 		],
 		"links": [
@@ -28,12 +28,21 @@
 			"alt": "engineering ambassadors"
 		},
 		"desc": [
-			"I am part of Cornell’s Engineering Ambassadors, where I am responsible for giving tours for prospective and newly admitted students to the college of engineering as well as hosting Q&A sessions."
+			"I was part of Cornell’s Engineering Ambassadors, where I was responsible for giving tours for prospective and newly admitted students to the college of engineering as well as hosting Q&A sessions.",
+			"I also contributed to the college’s virtual visit website for prospective students by writing blog posts and other written media."
 		],
 		"links": [
 			{
-				"url": "https://www.engineering.cornell.edu/",
-				"text": "Cornell Engineering"
+				"url": "https://visit.engineering.cornell.edu",
+				"text": "Virtual Visit Website"
+			},
+			{
+				"url": "https://visit.engineering.cornell.edu/2021/07/21/life-outside-the-classroom/",
+				"text": "Blog Post"
+			},
+			{
+				"url": "https://visit.engineering.cornell.edu/project/meet-stanley/",
+				"text": "Bio Page"
 			}
 		]
 	},
