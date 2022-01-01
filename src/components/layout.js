@@ -41,7 +41,7 @@ export default ({ children }) => {
 							activeClassName="active">Experience</Nav.Link>
 						
 						<Nav.Link as={Link} to="/clubs/"
-							activeClassName="active">Clubs</Nav.Link>
+							activeClassName="active">Clubs (College)</Nav.Link>
 						
 						<NavDropdown title="Socials" className="d-md-none">
 							<NavDropdown.Item href="https://github.com/wertylop5"
